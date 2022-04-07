@@ -2,7 +2,6 @@
 Portfólio de projetos de Data Science realizados em diferentes plataformas e ambientes. Alguns arquivos abaixo podem estar em inglês devido a relevância em cada plataforma.
 
 ## Kaggle
----
 Projetos (notebooks, datasets) criados no Kaggle.
 
 - **Dataset de Indicadores do BRICS**: Dataset com indicadores em vários setores coletados da plataforma World Bank e transformados em um formato acessível para Machine Learning. [Link aqui](https://www.kaggle.com/datasets/docstein/brics-world-bank-indicators)
