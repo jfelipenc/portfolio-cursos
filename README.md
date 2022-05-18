@@ -4,7 +4,7 @@ Portfólio de projetos de Data Science realizados em diferentes plataformas e am
 ## DataCamp
 Projetos (notebooks) criados no DataCamp em competições ou projetos de curso.
 
-- **Análise de precificação de eletricidade em Melbourne, AU**: Notebook premiado em 4º lugar com análise de preços da eletricidade local de Melbourne, Victoria, Australia. Conhecimentos praticados: visualização de dados (multivariável, univariável), modelagem de série temporal.
+- **Análise de precificação de eletricidade em Melbourne, AU**: Notebook premiado em 4º lugar com análise de preços da eletricidade local de Melbourne, Victoria, Australia. Conhecimentos praticados: visualização de dados (multivariável, univariável), modelagem de série temporal. [Link Aqui](https://app.datacamp.com/workspace/w/9582a890-1c89-46cd-a16e-921c3683958b)
 
 ## Kaggle
 Projetos (notebooks, datasets) criados no Kaggle.
