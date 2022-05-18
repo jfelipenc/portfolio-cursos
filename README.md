@@ -1,6 +1,11 @@
 # portfolio-cursos
 Portfólio de projetos de Data Science realizados em diferentes plataformas e ambientes. Alguns arquivos abaixo podem estar em inglês devido a relevância em cada plataforma.
 
+## DataCamp
+Projetos (notebooks) criados no DataCamp em competições ou projetos de curso.
+
+- **Análise de precificação de eletricidade em Melbourne, AU**: Notebook premiado em 4º lugar com análise de preços da eletricidade local de Melbourne, Victoria, Australia. Conhecimentos praticados: visualização de dados (multivariável, univariável), modelagem de série temporal.
+
 ## Kaggle
 Projetos (notebooks, datasets) criados no Kaggle.
 
